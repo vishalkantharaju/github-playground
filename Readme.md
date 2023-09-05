@@ -9,7 +9,7 @@ Vishal
 3. Create a branch called `add/<your-name>`
 4. Add your name to the `README.md` file
 5. Create a Virtual Environment
-    - ```conda create -n gitgame python=3.8```
+    - ```conda create -n gitgame python=3.11```
 6. Install the requirements from `requirements.txt`
     - ```pip install -r requirements.txt```
 7. Run make gitgame
