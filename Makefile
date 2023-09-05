@@ -1,0 +1,2 @@
+- gitgame:
+	python -m app
